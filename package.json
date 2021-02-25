@@ -1,0 +1,11 @@
+{
+  "name": "custom-fontawesome-loader",
+  "version": "1.0.0",
+  "description": "Load SVGs as Font Awesome's IconDefinition",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "CrushedLive <jordan@bugbird.co>",
+  "license": "MIT"
+}
